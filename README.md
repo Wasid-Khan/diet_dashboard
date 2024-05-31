@@ -67,7 +67,4 @@ This project is a comprehensive Diet Dashboard application developed using PHP, 
 2. Register a new account or log in with existing credentials.
 3. Use the dashboard to manage your diet, add food items, and visualize macronutrient intake.
 
-## Contributing
-Feel free to fork the repository and submit pull requests. For major changes, please open an issue to discuss your ideas.
-
-Feel free to reach out if you have any questions or need further assistance!
+Let me know if you have any issue!
